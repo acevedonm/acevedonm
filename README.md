@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h2> Hi, I'm Nico Acevedo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Full Stack Developer <a href="https://www.soyhenry.com/">SoyHenry</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Cursando: Analista de Sistemas <a href="https://www.unlu.edu.ar">Universidad de Nacional Lujan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+</em></p>
+
+[![Linkedin: Acevedonm](https://img.shields.io/badge/-acevedonm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acevedonm/)](https://www.linkedin.com/in/acevedonm/)
+[![GitHub Acevedonm](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Acevedonm)
+
 <!--
 **acevedonm/acevedonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
