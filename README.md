@@ -6,7 +6,7 @@
 </em></p>
 
 [![Linkedin: Acevedonm](https://img.shields.io/badge/-acevedonm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acevedonm/)](https://www.linkedin.com/in/acevedonm/)
-[![GitHub Acevedonm](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Acevedonm)
+[![GitHub Acevedonm](https://img.shields.io/github/followers/acevedonm?label=follow&style=social)](https://github.com/Acevedonm)
 
 <!--
 **acevedonm/acevedonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
