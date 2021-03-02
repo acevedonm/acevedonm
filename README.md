@@ -8,6 +8,21 @@
 [![Linkedin: Acevedonm](https://img.shields.io/badge/-acevedonm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acevedonm/)](https://www.linkedin.com/in/acevedonm/)
 [![GitHub Acevedonm](https://img.shields.io/github/followers/acevedonm?label=follow&style=social)](https://github.com/Acevedonm)
 
+
+
+<div><p>My profile overview: </p></div>
+
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=acevedonm&show_icons=true)
+<br />
+<br />
+<br />
+<details>
+<summary>
+  Projects I am currently working on
+</summary>
+
+<br />
+
 <!--
 **acevedonm/acevedonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
