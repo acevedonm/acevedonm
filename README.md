@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h2> Hi, I'm Nico Acevedo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' style='border-radius:60px'src="https://acevedonm.github.io/portafolio/static/media/Profile_avatar2.5665da7e.jpeg" width="230">
 <p><em>Full Stack Developer <a href="https://www.soyhenry.com/">SoyHenry</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Cursando: Analista de Sistemas <a href="https://www.unlu.edu.ar">Universidad de Nacional Lujan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
